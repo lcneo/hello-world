@@ -1,6 +1,3 @@
 # hello-world
-Just another repository
-  hello world
-  hello C
-  hello python
-  hello java
+Just another repository!    
+hello  C  &&  python &&  java  &&  world!
